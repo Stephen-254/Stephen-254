@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephen Muya Mutheu</h1>
 <h3 align="center">A passionate software engineering student from Nairobi, Kenya. I am also a moderator at FreeCodeCamp.</h3>
 <img align="center" margin="auto" alt="SWE" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=stephen-254&label=Profile%20views&color=0e75b6&style=flat" alt="stephen-254" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephen-254" alt="stephen-254" /></a> </p>
-
 - 🔭 I’m currently working on **A fast food restaurant website**
 
 - 🌱 I’m currently learning **Python and bootstrap**
