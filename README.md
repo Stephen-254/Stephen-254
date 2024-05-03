@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Muya Mutheu</h1>
 <h3 align="center">A passionate software engineering student from Nairobi, Kenya. I am also a moderator at FreeCodeCamp.</h3>
-<img align="center" margin="auto" alt="SWE" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 - 🔭 I’m currently working on **A fast food restaurant website**
 
 - 🌱 I’m currently learning **Python and bootstrap**
