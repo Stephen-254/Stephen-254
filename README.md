@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Stephen Muya Mutheu</h1>
+<h1 align="center">Hello there!👋, I'm Stephen Muya Mutheu</h1>
 <h3 align="center">A passionate software engineering student from Nairobi, Kenya. I am also a moderator at FreeCodeCamp.</h3>
-- 🔭 I’m currently working on **A fast food restaurant website**
 
 - 🌱 I’m currently learning **Python and bootstrap**
 
-- 💬 Ask me about **Front-end web development.**
-
 - 📫 How to reach me **stephenmutheu@gmail.com**
-
-- ⚡ Fun fact **I am partially funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
